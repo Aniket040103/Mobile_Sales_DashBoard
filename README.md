@@ -45,7 +45,7 @@ This project showcases an interactive **Mobile Sales Analysis Dashboard** develo
 ![Sales Overview](Dashboardpreview.jpg)
 
 ### 🔹 Month-to-Date (MTD) Page
-![MTD Analysis](MTD Report.jpg)
+![MTD Analysis](MTD_Report.jpg)
 
 ### 🔹 Same Period Last Year (SPLY)
 ![SPLY Page](Same Period Last Year.jpg)
