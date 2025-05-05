@@ -32,14 +32,6 @@ This project showcases an interactive **Mobile Sales Analysis Dashboard** develo
 
 ---
 
-## 📂 Repository Contents
-
-- `MobileSalesDashboard.pbix` – Power BI dashboard file  
-- `MobileSalesData.xlsx` – Cleaned dataset used for the report  
-- `README.md` – Project documentation
-
----
-
 ## 📈 Key Insights
 
 - Identified top-performing products and underperforming regions  
@@ -47,4 +39,13 @@ This project showcases an interactive **Mobile Sales Analysis Dashboard** develo
 - Enabled business users to make informed sales and marketing decisions  
 - Delivered dynamic visuals for easier interpretation of key trends
 
+## 📷 Dashboard Preview
 
+### 🔹 Sales Overview Page
+![Sales Overview](Dashboardpreview.jpg)
+
+### 🔹 Month-to-Date (MTD) Page
+![MTD Analysis](MTD Report.jpg)
+
+### 🔹 Same Period Last Year (SPLY)
+![SPLY Page](Same Period Last Year.jpg)
